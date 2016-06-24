@@ -6,14 +6,14 @@ library(leaflet)
 shinyServer(function(input,output) {
   
   #Render selection
-  dfSelection <- reactive(subset(dataframe, Quantity = input$year))
+  dfSelection <- reactive(subset(dataframe, start_year == input$year))
                                                
   
   #Map
   output$HistoryEvent <- renderLeaflet({
     leaflet() %>% 
       addTiles() %>% 
-      setView(lng = 15, lat = 50, zoom = 5) %>%
+      setView(lng = 15, lat = 50, zoom = 2) %>%
       
       #Markers 
       addMarkers(lng = dfSelection()$Lon,

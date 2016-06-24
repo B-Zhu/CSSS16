@@ -24,7 +24,7 @@ shinyUI(bootstrapPage(
     class = "panel panel-default",
     top = 0, 
     right = 0,
-    width = 350, 
+    width = 250, 
     height = "100%",
     align = "center",
     
