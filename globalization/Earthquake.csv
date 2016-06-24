@@ -1,0 +1,105 @@
+type,Lat,Lon,start_year,description,magnitude
+Earthquake,36.888,105.606,1920,"Gansu-Ningxia border region, China",8.3
+Earthquake,-37.723,-70.256,1920,"Neuquen, Argentina",7.3
+Earthquake,-20.088,168.523,1920,"Loyalty Islands, New Caledonia",8.1
+Earthquake,23.684,121.986,1920,Taiwan,8.2
+Earthquake,-3.65,144,1920,"near the north coast of New Guinea, Papua New Guinea",7
+Earthquake,-35.848,-110.726,1920,southern East Pacific Rise,7
+Earthquake,-4.967,152.017,1920,"New Britain region, Papua New Guinea",7.8
+Earthquake,-8.174,31.566,1919,"Lake Tanganyika region, Tanzania-Zambia",7.2
+Earthquake,-4.852,153.714,1919,"New Ireland region, Papua New Guinea",7.8
+Earthquake,40.783,145.403,1919,"off the east coast of Honshu, Japan",7.2
+Earthquake,-18.352,-172.515,1919,Tonga region,8.1
+Earthquake,-30.418,-178.11,1919,"Kermadec Islands, New Zealand",7.2
+Earthquake,-43.109,-71.695,1919,"Chubut, Argentina",7.2
+Earthquake,-43.8,-78.319,1919,"off the coast of Los Lagos, Chile",7.2
+Earthquake,-19.307,-178.106,1919,Fiji region,7.8
+Earthquake,-26.538,-70.608,1918,"Atacama, Chile",7.8
+Earthquake,11.391,-43.549,1918,northern Mid-Atlantic Ridge,7.1
+Earthquake,44.893,151.896,1918,east of the Kuril Islands,7.8
+Earthquake,-1.402,149.683,1918,"New Ireland region, Papua New Guinea",7.2
+Earthquake,18.802,-67.219,1918,Puerto Rico region,7.1
+Earthquake,46.737,150.653,1918,Kuril Islands,8.1
+Earthquake,5.967,124.377,1918,"Mindanao, Philippines",8.3
+Earthquake,24.599,90.853,1918,Bangladesh,7.2
+Earthquake,-3.211,143.404,1918,"near the north coast of New Guinea, Papua New Guinea",7.5
+Earthquake,-2.268,153.171,1918,"New Ireland region, Papua New Guinea",7
+Earthquake,7.506,-34.933,1918,central Mid-Atlantic Ridge,7.3
+Earthquake,23.582,117.104,1918,"near the coast of Fujian, China",7.3
+Earthquake,-3.687,141.572,1917,"New Guinea, Papua New Guinea",7.4
+Earthquake,-14.739,-173.562,1917,Samoa Islands region,8
+Earthquake,54.934,-159.433,1917,south of Alaska,7.4
+Earthquake,-31.08,-176.461,1917,Kermadec Islands region,8.2
+Earthquake,56.136,163.168,1917,"near the east coast of the Kamchatka Peninsula, Russia",7.9
+Earthquake,49.755,157.998,1916,east of the Kuril Islands,7.3
+Earthquake,29.73,80.745,1916,Nepal-India border region,7
+Earthquake,11.542,-87.99,1916,near the coast of Nicaragua,7.2
+Earthquake,50.459,179.051,1916,"Rat Islands, Aleutian Islands, Alaska",7
+Earthquake,40.074,37.329,1916,central Turkey,7
+Earthquake,-3.987,138.011,1916,"Papua, Indonesia",7.7
+Earthquake,-3.196,135.731,1916,"Papua, Indonesia",7.1
+Earthquake,-4.739,152.548,1916,"New Britain region, Papua New Guinea",7.9
+Earthquake,38.594,143.021,1915,"off the east coast of Honshu, Japan",7
+Earthquake,54.121,162.052,1915,"near the east coast of the Kamchatka Peninsula, Russia",7.3
+Earthquake,48.361,155.162,1915,Kuril Islands,7.8
+Earthquake,23.359,123.492,1915,"southwestern Ryukyu Islands, Japan",7.3
+Earthquake,4.239,128.141,1915,"north of Halmahera, Indonesia",7.4
+Earthquake,37.629,30.021,1915,western Turkey,7
+Earthquake,42.747,92.09,1915,"northern Xinjiang, China",7.3
+Earthquake,-3.924,101.82,1915,"southern Sumatra, Indonesia",7.6
+Earthquake,-1.829,136.943,1915,"Biak region, Indonesia",8.1
+Earthquake,-36.292,-75.057,1915,"off the coast of Bio-Bio, Chile",7.6
+Earthquake,-16.469,-73.823,1913,near the coast of southern Peru,7.7
+Earthquake,-20.53,-173.854,1913,Tonga,7.7
+Earthquake,-4.685,151.767,1913,"New Britain region, Papua New Guinea",7.2
+Earthquake,5.354,126.121,1913,"Mindanao, Philippines",7.8
+Earthquake,7.299,136.888,1912,Palau region,7.5
+Earthquake,40.638,27.023,1912,western Turkey,7.1
+Earthquake,21.036,96.737,1912,Myanmar,7.5
+Earthquake,17.159,-99.994,1911,"Guerrero, Mexico",7.3
+Earthquake,7.237,136.944,1911,Palau region,7.8
+Earthquake,8.546,127.103,1911,Philippine Islands region,7.7
+Earthquake,29.049,128.778,1911,"northwest of the Ryukyu Islands, Japan",7.9
+Earthquake,18.517,-102.442,1911,"Michoacan, Mexico",7.6
+Earthquake,38.331,72.628,1911,Tajikistan,7.3
+Earthquake,43.013,78.53,1911,eastern Kazakhstan,7.7
+Earthquake,4.685,126.051,1910,"Kepulauan Talaud, Indonesia",7.6
+Earthquake,-6.351,31.27,1910,"Lake Tanganyika region, Tanzania",7.3
+Earthquake,-16.289,166.904,1910,Vanuatu,7.3
+Earthquake,-19.572,169.438,1910,Vanuatu,7.8
+Earthquake,25.911,123.973,1910,northeast of Taiwan,8.1
+Earthquake,28.074,69.333,1909,Pakistan,7
+Earthquake,16.471,-99.427,1909,"offshore Guerrero, Mexico",7.5
+Earthquake,35.387,70.251,1909,"Hindu Kush region, Afghanistan",7.7
+Earthquake,35.407,142.29,1909,"off the east coast of Honshu, Japan",7.1
+Earthquake,34.248,50.41,1909,central Iran,7.3
+Earthquake,38,15.349,1908,"Sicily, Italy",7
+Earthquake,26.948,96.773,1908,Myanmar,7
+Earthquake,39.179,70.585,1907,Tajikistan,7.4
+Earthquake,16.513,-97.304,1907,"Oaxaca, Mexico",7.8
+Earthquake,1.873,94.209,1907,off the west coast of northern Sumatra,7.8
+Earthquake,44.284,85.572,1906,"northern Xinjiang, China",7.8
+Earthquake,36.79,67.021,1906,central Afghanistan,7
+Earthquake,-6.249,147.281,1906,"eastern New Guinea region, Papua New Guinea",8
+Earthquake,-32.4,-71.4,1906,"Valparaiso, Chile",8.2
+Earthquake,51.853,178.18,1906,"Rat Islands, Aleutian Islands, Alaska",8.3
+Earthquake,38.056,-122.403,1906,"San Pablo Bay, California",7.7
+Earthquake,0.955,-79.369,1906,near the coast of Ecuador,8.3
+Earthquake,34.167,138.101,1906,"near the south coast of Honshu, Japan",7.4
+Earthquake,39.114,23.974,1905,Aegean Sea,7.4
+Earthquake,38.636,15.784,1905,"Sicily, Italy",7.2
+Earthquake,49.369,96.61,1905,western Mongolia,8.3
+Earthquake,49.709,98.483,1905,central Mongolia,8.3
+Earthquake,32.636,76.788,1905,"Himachal Pradesh, India",7.9
+Earthquake,52.864,160.445,1904,"off the east coast of the Kamchatka Peninsula, Russia",7.7
+Earthquake,51.565,161.417,1904,"off the east coast of the Kamchatka Peninsula, Russia",7.5
+Earthquake,15,-98,1903,"off the coast of Oaxaca, Mexico",7.7
+Earthquake,16,-93,1902,"Chiapas, Mexico",7.8
+Earthquake,18,146,1902,"Alamagan region, Northern Mariana Islands",7.5
+Earthquake,40,77,1902,Kyrgyzstan-Xinjiang border region,7.7
+Earthquake,14,-91,1902,Guatemala,7.5
+Earthquake,40,144,1901,"off the east coast of Honshu, Japan",7.5
+Earthquake,-22,170,1901,southeast of the Loyalty Islands,7.9
+Earthquake,11,-66,1900,"offshore Miranda, Venezuela",7.7
+Earthquake,60,-142,1900,Southeastern Alaska,7.7
+Earthquake,-10,165,1900,Santa Cruz Islands,7.6
