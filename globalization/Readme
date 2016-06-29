@@ -1,0 +1,5 @@
+set working directory
+install shinny and leaflet packages
+load ui.r first. Then run app.
+It is possible that you won't have this run app button because r is not updated.
+run from the command line. runApp("globalization")
